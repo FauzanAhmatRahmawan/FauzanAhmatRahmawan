@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 , I'm Fauzan Ahmat Rahmawan
 I am graduated from UPN Veteran Jakarta as a Bachelor of Computer Science. Currently working as Quality Assurance Software, Have the knowledge to manual testing starting from creating test scenarios or test cases and make reporting test result documentation. In addition, I am also learning to do automated testing using selenium or catalon. I also have API testing capabilities using Postman.
-# Table of contents
-<!--ts-->
-   * [Lets connect](#lets-connect)
-   * [Contact me](#contact-me)
-<!--te-->
 
 ## 📝Connect me
 <p>
