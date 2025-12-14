@@ -17,10 +17,10 @@ I am a Software QA Engineer with 3+ years of experience across banking, fintech,
 I excel at bridging business requirements with technical execution. I frequently collaborate with Business Analysts, Developers, and Product/Project Managers to refine acceptance criteria, clarify requirement gaps, and ensure every feature meets both business value and system behavior expectations.
 
 My strengths include:
-• Test Planning and Test Analysis Strategy
-• Manual & Automation Testing, API Testing, Performance Testing
-• Requirement Business Analysis, Process Mapping, BRD/FRD/PRD
-• Cross-functional coordination & stakeholder communication
+- Test Planning and Test Analysis Strategy
+- Manual & Automation Testing, API Testing, Performance Testing
+- Requirement Business Analysis, Process Mapping, BRD/FRD/PRD
+- Cross-functional coordination & stakeholder communication
 
 ## 📝Connect me
 <p>
