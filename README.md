@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi There 👋 , I'm Fauzan Ahmat Rahmawan
-I am graduated from UPN Veteran Jakarta as a Bachelor of Computer Science. Currently working as Quality Assurance Software, Have the knowledge to manual testing starting from creating test scenarios or test cases and make reporting test result documentation. In addition, I am also learning to do automated testing using selenium or catalon. I also have API testing capabilities using Postman.
+I am a Software QA Engineer with 3+ years of experience across banking, fintech, and enterprise systems specializing in Manual Testing, Automation Testing (Katalon), API Testing (Postman), Performance Testing (JMeter), and SQL data validation.
+I excel at bridging business requirements with technical execution. I frequently collaborate with Business Analysts, Developers, and Product/Project Managers to refine acceptance criteria, clarify requirement gaps, and ensure every feature meets both business value and system behavior expectations.
+
+My strengths include:
+• Test Planning and Test Analysis Strategy
+• Manual & Automation Testing, API Testing, Performance Testing
+• Requirement Business Analysis, Process Mapping, BRD/FRD/PRD
+• Cross-functional coordination & stakeholder communication
 
 ## 📝Connect me
 <p>
